@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elif Öztosun
 - 👀 I’m interested in learning new things and improving my skills
-- 🌱 I’m currently learning Python programming language
+- 🌱 I’m currently learning Python programming language!
 
 
 <!---
